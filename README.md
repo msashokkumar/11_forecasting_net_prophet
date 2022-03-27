@@ -1,5 +1,3 @@
-# 11_forecasting_net_prophet
-
 # Mercado Libre Forecasting
 
 ### Language
